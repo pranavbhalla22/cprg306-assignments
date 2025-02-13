@@ -1,4 +1,4 @@
-import NewItem from './newitem';
+import NewItem from './new-item';
 
 export default function Page() {
   return (
